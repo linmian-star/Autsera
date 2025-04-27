@@ -4,7 +4,7 @@
   "homepage":"https://rooberrydev.github.iosera",
   "private": true,
   "dependencies": {
-    "node-sass": "^4.12.0",
+    "sass": "^1.63.0",
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
     "react-router-dom": "^5.1.2",
